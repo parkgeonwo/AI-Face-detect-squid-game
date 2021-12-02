@@ -42,8 +42,6 @@ Teachable machine을 통해 11명의 배우들의 사진을 딥러닝 학습하�
 <img width="50%" src="https://user-images.githubusercontent.com/87109907/144372281-e6d55a2f-39ef-41dd-906f-092deaf43b38.png"/>
 
 
-**moblie**
-
 - 기존의 teachable machine 모델은 web cam으로 사물을 판별하는데, 이를 사진 업로드 방식으로 변경 (javascript, jquery, codepen)
 
 <img width="30%" src="https://user-images.githubusercontent.com/87109907/144372015-31583f9f-67d6-4ffa-9f7b-7b2536723812.png"/>
